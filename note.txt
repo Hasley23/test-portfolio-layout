@@ -1,0 +1,14 @@
+html + css + JS
+https://www.youtube.com/watch?v=tYdnepSqtNE
+
+Extensions:
+Auto close tag
+Auto rename tag
+Black Formatter
+Go
+HTML CSS Support
+Live Server
+Pylance
+Python
+Python Debugger
+WSL
